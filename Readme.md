@@ -11,7 +11,7 @@ Written by *Zubeyr-Abubakar!*. My first attempt creating a full functioning app 
 3. right click the index.html file to host it on the live server `open with live server`
 
 
-## Prerequisites
+## Pre requisites
 1. HTML5 ~ The landing page
 2. Face-api.mini.js ~ containing codes for the face detection  
 3. Face-recognition.models~ containing face recognition and expresion codes 
@@ -25,8 +25,8 @@ Written by *Zubeyr-Abubakar!*. My first attempt creating a full functioning app 
 
 | Behavior our program should handle | Input description |  Output description
 | --- | --- | --- |
-|Host live server | None | pop up to allow video
-|Video appear| none |  face canvas box appears 
+|Host live server | None | pop-up to allow video
+|Video appear| None |  face canvas box appears 
 |Dots joining ur face appears | None |  expression outlined in percentage form
 
 
