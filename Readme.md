@@ -26,7 +26,7 @@ Written by *Zubeyr-Abubakar!*. My first attempt creating a full functioning app 
 | Behavior our program should handle | Input description |  Output description
 | --- | --- | --- |
 | host live server | None | pop up to allow video
-| Enter image category | Image Category |  Shows images of a given category
+|  | Image Category |  Shows images of a given category
 | Select different locations | None |  Shows images of a given location
 | Click 'CopyLink' button | None |  Copies the link of your image to your clipboard
 
