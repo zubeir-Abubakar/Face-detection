@@ -17,7 +17,7 @@ Written by *Zubeyr-Abubakar!*. My first attempt creating a full functioning app 
 3. Face-recognition.models~ containing face recognition and expresion codes 
 
 ## Technologies Used
-1. Html
+1. Html5
 2. Javascript
 3. visual studio code(VS)
 
