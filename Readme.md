@@ -26,7 +26,7 @@ Written by *Zubeyr-Abubakar!*. My first attempt creating a full functioning app 
 | Behavior our program should handle | Input description |  Output description
 | --- | --- | --- |
 |Host live server | None | pop up to allow video
-|Video appear| face canvas box appears  |  none
+|Video appear| none |  face canvas box appears 
 |Dots joining ur face appears | None |  expression outlined in percentsge form
 
 
