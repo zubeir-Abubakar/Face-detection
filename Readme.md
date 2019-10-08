@@ -27,7 +27,7 @@ Written by *Zubeyr-Abubakar!*. My first attempt creating a full functioning app 
 | --- | --- | --- |
 |Host live server | None | pop up to allow video
 |Video appear| none |  face canvas box appears 
-|Dots joining ur face appears | None |  expression outlined in percentsge form
+|Dots joining ur face appears | None |  expression outlined in percentage form
 
 
 ### Contact Information
